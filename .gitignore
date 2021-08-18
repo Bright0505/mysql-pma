@@ -1,3 +1,4 @@
 .env
 mysql-dump/*
+!mysql-dump/.gitkeep
 /data
