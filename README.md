@@ -4,10 +4,12 @@
 各項參數請參照以下 env 設定
 
 ## env 設定
-```MYSQL_DATABASE= #新增 database
+```
+MYSQL_DATABASE= #新增 database
 MYSQL_ROOT_PASSWORD= #設定 root 密碼
 MYSQL_USER= #新增帳號
-MYSQL_PASSWORD= #新增帳號的密碼```
+MYSQL_PASSWORD= #新增帳號的密碼
+```
 
 ## 如需匯入 sql 請放置於資料夾內:
 mysql-dump  
